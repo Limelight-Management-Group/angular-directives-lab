@@ -12,3 +12,4 @@ function cardsController(){
     {question: "What's my secret power?"}
   ]
 }
+console.log("I am here Too!")
